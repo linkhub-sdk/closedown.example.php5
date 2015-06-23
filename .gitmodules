@@ -1,0 +1,3 @@
+[submodule "Closedown"]
+	path = Closedown
+	url = https://github.com/linkhub-sdk/closedown.sdk.php5.git
