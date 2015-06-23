@@ -33,8 +33,7 @@
 
 			
 			<br />
-			
-
+			<?echo phpinfo() ?>
 		 </div>
 	</body>
 </html>
